@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://birdflyi.github.io/categories/</loc>
+    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://birdflyi.github.io/post/first/</loc>
+    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birdflyi.github.io/tags/Hugo/</loc>
     <lastmod>2020-07-04T18:12:34+08:00</lastmod>
   </url>
   
@@ -18,11 +28,18 @@
   </url>
   
   <url>
-    <loc>https://birdflyi.github.io/categories/</loc>
+    <loc>https://birdflyi.github.io/tags/site/</loc>
+    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birdflyi.github.io/categories/site/</loc>
+    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://birdflyi.github.io/tags/</loc>
+    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
   </url>
   
 </urlset>
