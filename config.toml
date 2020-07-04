@@ -1,0 +1,33 @@
+baseURL = "https://birdflyi.github.io/"
+languageCode = "en-us"
+## languageCode = "zh-CN"
+title = "My New Hugo Site"
+theme = "maupassant"
+
+## 保持分类的原始名字（false会做转小写处理）
+preserveTaxonomyNames = true
+
+## 是否禁止URL Path转小写
+disablePathToLower = true
+
+## 自动检测是否包含中文/日文/韩文，建议设置为true
+hasCJKLanguage = true
+
+## 摘要长度
+summaryLength = 140
+
+## 分页
+paginate = 20
+paginatePath = "page"
+
+[author]
+  name = "birdflyi"
+
+[params]
+  author = "birdflyi"
+  subtitle = "mysite"
+  keywords = "mysite"
+  description = "mysite"
+  busuanzi = true
+  localSearch = true
+
