@@ -3,7 +3,7 @@ languageCode = "en-us"
 ## languageCode = "zh-CN"
 copyright = "&copy; {year} birdflyi"
 title = "My Hugo Site"
-theme = "academic"
+theme = "maupassant-hugo"
 
 ## 保持分类的原始名字（false会做转小写处理）
 preserveTaxonomyNames = true
@@ -56,11 +56,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
-#[taxonomies]
-#  tag = "tags"
-#  category = "categories"
-#  publication_type = "publication_types"
-#  author = "authors"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
@@ -71,7 +70,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [params]
   subtitle = "The home page of LouZehua."
-  keywords = ["home page"]
+  keywords = "home page"
   description = "The home page of LouZehua."
   localSearch = true
 
