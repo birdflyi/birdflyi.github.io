@@ -1,8 +1,9 @@
 baseURL = "https://birdflyi.github.io/"
 languageCode = "en-us"
 ## languageCode = "zh-CN"
-title = "My New Hugo Site"
-theme = "maupassant"
+copyright = "&copy; {year} birdflyi"
+title = "My Hugo Site"
+theme = "academic"
 
 ## 保持分类的原始名字（false会做转小写处理）
 preserveTaxonomyNames = true
@@ -20,14 +21,57 @@ summaryLength = 140
 paginate = 20
 paginatePath = "page"
 
+enableEmoji = true
+footnotereturnlinkcontents = "<sup>^</sup>"
+ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
+[permalinks]
+  authors = "/author/:slug/"
+  tags = "/tag/:slug/"
+  categories = "/category/:slug/"
+  publication_types = "/publication-type/:slug/"
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.WebAppManifest]
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+  [markup.highlight]
+    codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[imaging]
+  resampleFilter = "lanczos"
+  quality = 90
+  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+
+# Taxonomies.
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
+#  author = "authors"
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+  section = [ "HTML", "RSS" ]
+
 [author]
   name = "birdflyi"
 
 [params]
-  author = "birdflyi"
-  subtitle = "mysite"
-  keywords = "mysite"
-  description = "mysite"
-  busuanzi = true
+  subtitle = "The home page of LouZehua."
+  keywords = ["home page"]
+  description = "The home page of LouZehua."
   localSearch = true
 
