@@ -1,9 +1,9 @@
 [submodule "themes/maupassant-hugo"]
 	path = themes/maupassant-hugo
-	url = https://github.com/rujews/maupassant-hugo.git
+	url = https://github.com/birdflyi/maupassant-hugo.git
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "themes/academic"]
 	path = themes/academic
-	url = https://github.com/gcushen/hugo-academic.git
+	url = https://github.com/birdflyi/hugo-academic.git
