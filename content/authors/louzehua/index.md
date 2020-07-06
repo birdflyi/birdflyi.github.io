@@ -59,6 +59,8 @@ markup: "md"
 # Social
 
 [//]: # "available icons to https://sourcethemes.com/academic/docs/page-builder/#icons"
+| Email | github | stack-exchange | zhihu | orcid | zotero | linkedin|
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |[<img src="../../../static/img/icons/envelope-solid.svg" alt="envelope-fas" width = "100" />](mailto:cs_zhlou@163.com) | [<img src="../../../static/img/icons/github-brands.svg" alt="github-fab" width = "100" />](https://github.com/birdflyi) | [<img src="../../../static/img/icons/stack-exchange-brands.svg" alt="stack-exchange-fab" width = "100" />](https://meta.stackexchange.com/users/569289/bird-fly-i) | [<img src="../../../static/img/icons/zhihu-brands.svg" alt="zhihu-fab" width = "100" />](https://www.zhihu.com/people/birdflyi) | [<img src="../../../static/img/icons/orcid-logo.svg" alt="orcid-ai" width = "100" />](https://orcid.org/0000-0001-9068-4351) | [<img src="../../../static/img/icons/zotero-logo.svg" alt="zotero-ai" width = "100" />](https://www.zotero.org/cs_zhlou) | [<img src="../../../static/img/icons/linkedin-brands.svg" alt="linkedin-fab" width = "100" />](https://www.linkedin.com/in/zehua-lou-76643090/)|
 
 # Related Links
