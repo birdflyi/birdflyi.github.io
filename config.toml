@@ -2,7 +2,7 @@ baseURL = "https://birdflyi.github.io/"
 languageCode = "en-us"
 ## languageCode = "zh-CN"
 copyright = "&copy; {year} birdflyi"
-title = "My Hugo Site"
+title = "HOME"
 theme = "maupassant-hugo"
 
 ## 保持分类的原始名字（false会做转小写处理）
@@ -72,5 +72,11 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   subtitle = "The home page of LouZehua."
   keywords = "home page"
   description = "The home page of LouZehua."
+  busuanzi = true #启用不算子网页统计
   localSearch = true
 
+## 友情链接，可以多个
+[[params.links]]
+  title = "X-lab Personal Info"
+  name = "X-lab Personal Info"
+  url = "http://www.x-lab.info/author/%E5%A8%84%E6%B3%BD%E5%8D%8E/"
