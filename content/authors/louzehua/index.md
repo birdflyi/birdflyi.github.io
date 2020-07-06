@@ -1,92 +1,67 @@
 ---
 # Display name
-title: 娄泽华
+title: "娄泽华"
 
 date: 2020-07-05T16:11:22+08:00
 draft: false
 description: "个人简介"
-tags: [ "Profile" , "Hugo" ]
-keywords: [ "Profile" , "Hugo" ]
+tags: [ "Profile" ]
+keywords: [ "Profile" ]
 categories: [ "Profile" ]
 isCJKLanguage: true
 
-# Username (this should match the folder name)
-authors:
-- louzehua
+# 排序你的文章
+weight: 1
 
-# Is this the primary user of the site?
-superuser: yes
+## 使用这两个参数将会重置permalink，默认使用文件名
+# url: 
+# slug: 
 
-# Role/position
-role: 2020 doctoral student
+## 别名将通过重定向实现
+# aliases:
+#   - 别名1
+#   - /posts/my-original-url/
+#   - /2010/01/01/another-url.html
+
+## type 与 layout 参数将会改变 Hugo 寻找该文章模板的顺序，将在下一节细述
+# type: review
+# layout: reviewarticle
+
+## 三个比较复杂的参数
+# taxonomies:
+# linkTitle: 
+# outputs:
+
+# 实验性的参数
+markup: "md"
+---
+# Statement
+ - Green hand.
+ - A newcomer of X-Lab.
 
 # Organizations/Affiliations
-organizations:
-- name: East China Normal University
-  url: "http://www.ecnu.edu.cn/"
+|Organizations/Affiliations | Role/position|
+|------------ | -------------|
+|[East China Normal University](http://www.ecnu.edu.cn/) | student|
+|[X-lab2017](https://github.com/X-lab2017) | student|
 
-# Short bio (displayed in user profile at end of posts)
-bio: Green hand.
+# Educations
+- MEng in Computer Application Technology, [Kunming University of Science and Technology](http://www.kmust.edu.cn/), 2018
+- BEng in Electronic and Information Engineering, [Shanghai DianJi University](https://www.sdju.edu.cn/), 2014
 
-interests:
+# Interests
 - Cognition 
 - Paradigm(Relation)
 - Policy
 - Traditional culture
 - Linguistics
 
-education:
-  courses:
-  - course: MEng in Computer Application Technology 
-    institution: Kunming University of Science and Technology
-    year: 2018
-  - course: BEng in Electronic and Information Engineering
-    institution: Shanghai DianJi University
-    year: 2014
+# Social
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:cs_zhlou@163.com"  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/birdflyi
-- icon: stack-exchange
-  icon_pack: fab
-  link: https://meta.stackexchange.com/users/569289/bird-fly-i
-- icon: zhihu
-  icon_pack: fab
-  link: https://www.zhihu.com/people/birdflyi
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-9068-4351
-- icon: zotero
-  icon_pack: ai
-  link: https://www.zotero.org/cs_zhlou
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/zehua-lou-76643090/
+[//]: # "available icons to https://sourcethemes.com/academic/docs/page-builder/#icons"
+|[<img src="../../../static/img/icons/envelope-solid.svg" alt="envelope-fas" width = "100" />](mailto:cs_zhlou@163.com) | [<img src="../../../static/img/icons/github-brands.svg" alt="github-fab" width = "100" />](https://github.com/birdflyi) | [<img src="../../../static/img/icons/stack-exchange-brands.svg" alt="stack-exchange-fab" width = "100" />](https://meta.stackexchange.com/users/569289/bird-fly-i) | [<img src="../../../static/img/icons/zhihu-brands.svg" alt="zhihu-fab" width = "100" />](https://www.zhihu.com/people/birdflyi) | [<img src="../../../static/img/icons/orcid-logo.svg" alt="orcid-ai" width = "100" />](https://orcid.org/0000-0001-9068-4351) | [<img src="../../../static/img/icons/zotero-logo.svg" alt="zotero-ai" width = "100" />](https://www.zotero.org/cs_zhlou) | [<img src="../../../static/img/icons/linkedin-brands.svg" alt="linkedin-fab" width = "100" />](https://www.linkedin.com/in/zehua-lou-76643090/)|
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "cs_zhlou@163.com"
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- PhD
----
-
-## A newcomer of X-Lab.
-[HOME](https://birdflyi.github.io/)
-[X-lab2017](https://github.com/X-lab2017)
-[X-lab2017-Personal_Profile](http://www.x-lab.info/author/%E5%A8%84%E6%B3%BD%E5%8D%8E/)
+# Related Links
+- [HOME](https://birdflyi.github.io/)
+- [X-lab2017](https://github.com/X-lab2017)
+- [X-lab2017-Personal_Profile](http://www.x-lab.info/author/%E5%A8%84%E6%B3%BD%E5%8D%8E/)
