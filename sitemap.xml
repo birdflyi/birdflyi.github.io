@@ -3,43 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://birdflyi.github.io/author/%E5%A8%84%E6%B3%BD%E5%8D%8E/</loc>
+    <lastmod>2020-07-05T16:11:22+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://birdflyi.github.io/categories/</loc>
-    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://birdflyi.github.io/post/first/</loc>
-    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://birdflyi.github.io/tags/Hugo/</loc>
-    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
+    <lastmod>2020-07-06T16:03:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://birdflyi.github.io/</loc>
-    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
+    <lastmod>2020-07-06T16:03:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birdflyi.github.io/tag/Hugo/</loc>
+    <lastmod>2020-07-06T16:03:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birdflyi.github.io/tag/index/</loc>
+    <lastmod>2020-07-06T16:03:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birdflyi.github.io/category/index/</loc>
+    <lastmod>2020-07-06T16:03:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birdflyi.github.io/post/home/</loc>
+    <lastmod>2020-07-06T16:03:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://birdflyi.github.io/post/</loc>
-    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
+    <lastmod>2020-07-06T16:03:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://birdflyi.github.io/tags/site/</loc>
-    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://birdflyi.github.io/categories/site/</loc>
-    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
+    <loc>https://birdflyi.github.io/tag/site/</loc>
+    <lastmod>2020-07-06T16:03:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://birdflyi.github.io/tags/</loc>
-    <lastmod>2020-07-04T18:12:34+08:00</lastmod>
+    <lastmod>2020-07-06T16:03:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birdflyi.github.io/authors/</loc>
+    <lastmod>2020-07-05T16:11:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birdflyi.github.io/tag/Profile/</loc>
+    <lastmod>2020-07-05T16:11:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birdflyi.github.io/category/Profile/</loc>
+    <lastmod>2020-07-05T16:11:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://birdflyi.github.io/publication_types/</loc>
   </url>
   
 </urlset>

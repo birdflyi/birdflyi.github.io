@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME</title>
+    <link>https://birdflyi.github.io/</link>
+    <description>Recent content on HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} birdflyi</copyright>
+    <lastBuildDate>Mon, 06 Jul 2020 16:03:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://birdflyi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>娄泽华</title>
+      <link>https://birdflyi.github.io/author/%E5%A8%84%E6%B3%BD%E5%8D%8E/</link>
+      <pubDate>Sun, 05 Jul 2020 16:11:22 +0800</pubDate>
+      
+      <guid>https://birdflyi.github.io/author/%E5%A8%84%E6%B3%BD%E5%8D%8E/</guid>
+      <description>Statement Green hand. A newcomer of X-Lab. Organizations/Affiliations Organizations/Affiliations Role/position East China Normal University student X-lab2017 student Educations MEng in Computer Application Technology, Kunming University of Science and Technology, 2018 BEng in Electronic and Information Engineering, Shanghai DianJi University, 2014 Interests Cognition Paradigm(Relation) Policy Traditional culture Linguistics Social | | | | | | | | Related Links HOME X-lab2017 X-lab2017-Personal_Profile</description>
+    </item>
+    
+    <item>
+      <title>Post Index</title>
+      <link>https://birdflyi.github.io/post/home/</link>
+      <pubDate>Mon, 06 Jul 2020 16:03:12 +0800</pubDate>
+      
+      <guid>https://birdflyi.github.io/post/home/</guid>
+      <description>Brief 1. Project resource birdflyi.github.io 2. Author birdflyi 3. Related links X-lab2017-Personal_Profile</description>
+    </item>
+    
+  </channel>
+</rss>
