@@ -57,7 +57,10 @@ markup: "md"
 - Linguistics
 
 # Personal notes
-- [shimo](https://birdflyi.github.io/content/authors/louzehua/personalnotes/shimo)
+- External
+    - shimo: [Distributing center](https://shimo.im/docs/VhJxqpvqpKKC83WV)
+	- mubu: [Distributing center](https://share.mubu.com/doc/4nkDNs0vT-q)
+	- CSDN: [CSDN Blog](https://blog.csdn.net/bird_fly_i)
 
 # Social
 
