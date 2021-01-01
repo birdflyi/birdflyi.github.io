@@ -1,4 +1,5 @@
 ---
+# Display name
 title: "Shimo"
 date: 2021-01-01T19:11:40+08:00
 draft: false
@@ -8,7 +9,7 @@ categories: [ "notes" ]
 isCJKLanguage: true
 
 # 排序你的文章
-weight: 2
+weight: 1
 
 ## 使用这两个参数将会重置permalink，默认使用文件名
 # url: 

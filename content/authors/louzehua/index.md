@@ -57,7 +57,7 @@ markup: "md"
 - Linguistics
 
 # Personal notes
-- [石墨文档](https://birdflyi.github.io/content/authors/louzehua/personalnotes/shimo)
+- [shimo](https://birdflyi.github.io/content/authors/louzehua/personalnotes/shimo)
 
 # Social
 
