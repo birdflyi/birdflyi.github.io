@@ -57,6 +57,12 @@ markup: "md"
 - Linguistics
 
 # Personal notes
+- Essays
+    - 工具使用: [Git协作向导](https://github.com/birdflyi/query_clickhouse/blob/main/CONTRIBUTING.md)
+
+- Diary
+    - 2020: [自我分析](./dairy2020.pdf)
+
 - External
     - shimo: [Distributing center](https://shimo.im/docs/VhJxqpvqpKKC83WV)
 	- mubu: [Distributing center](https://share.mubu.com/doc/4nkDNs0vT-q)
