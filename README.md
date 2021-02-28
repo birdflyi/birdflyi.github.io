@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### About Hugo
+#### - Hugo Documentation
+[Hugo官方文档 en](https://gohugo.io/documentation/)
+[Hugo官方文档 zh](https://www.gohugo.org/doc/)
+#### - Hugo help
+[hugo中文帮助文档](https://hugo.aiaide.com/)
+    e.g.: [Hugo的工作原理](https://hugo.aiaide.com/post/hugo%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86/#%E6%96%87%E7%AB%A0)
+

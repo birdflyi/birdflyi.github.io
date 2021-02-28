@@ -59,7 +59,8 @@ markup: "md"
 # Personal notes
 - Essays
     - 工具使用: [Git协作向导](https://github.com/birdflyi/query_clickhouse/blob/main/CONTRIBUTING.md)
-
+- Documents
+    - mydocs: [Paper Contents](/mydocs/papers)
 - Diary
     - 2020: [马克思主义个人化](./endnote-Individualization-of-Marxism.pdf)，[自我分析](./dairy2020.pdf)，[关注的方面及规划](./Focus&planning.pdf)
 
